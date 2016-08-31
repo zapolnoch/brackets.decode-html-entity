@@ -1,0 +1,20 @@
+{
+	"name": "brackets.decode-html-entity",
+	"title": "Decode HTML Entity",	
+	"description": "This extension uses to decode any HTML-encoded string.",
+	"version": "0.1.0",
+	"engines": {
+		"brackets": ">=1.7.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zapolnoch/brackets.decode-html-entity.git"
+	},
+	"license": "MIT",
+	"i18n": ["en", "ru"],
+	"package-i18n": {
+		"ru": {
+			"description": "Это расширение используется для декодирования HTML-сущностей."
+		}
+	}
+}
